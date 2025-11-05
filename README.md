@@ -1,0 +1,11 @@
+1.1 Temperature Converter (Celsius to Fahrenheit)
+
+Scenario: A weather app needs to convert temperature from Celsius to Fahrenheit.
+
+Algorithm:
+
+1. Initialize the variable celsius and assign the value 32.
+2. 
+3. Calculate the fahrenheit: fahrenheit = (celsius * 9/5) + 32
+4. 
+5. Print the fahrenheit.
